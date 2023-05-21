@@ -1,0 +1,4 @@
+component: express # 使用express组件 
+name: expressDemo  # 实例名称 
+inputs: 
+  src: ./index.js # index.js文件作为函数入口 
